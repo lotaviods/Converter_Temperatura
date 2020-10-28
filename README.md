@@ -4,7 +4,7 @@
 <a href="https://github.com/lotaviods"><img title="Author" src="https://img.shields.io/badge/Author-lotaviods-blue"></a>
 <br>Simples conversor de graus Celsius para Fahrenheit feito em PHP</br>
 ### Utilizando classes para cálculos
-Esse projeto utiliza uma classe para converter as temperaturas
+	Esse projeto utiliza uma classe para converter as temperaturas
 ### Iniciando o servidor PHP
 	$ cd Converter_Temperatura
 	$ php -S localhost:8000
