@@ -1,15 +1,12 @@
-<?php
-require 'Converter.php'; ?>
-<html>
-<head>
-<title>Curso PHP Progressivo</title>
-</head>
+<?php require 'Converter.php'; ?>
+<html> 
+    <head>
+        <title>Curso PHP Progressivo</title>
+    </head>
 <body>
 <form action='index.php' method="get">
 Temperatura em Celsius: <input type="text" name="C"><br>
-<input type="submit">
-<br>
-Temperatura em Farenheight : <input type="text" name="F"><br>
+<input type="submit"> <br> Temperatura em Farenheight : <input type="text" name="F"><br>
 </br>
 <input type="submit">
 </form>
@@ -28,5 +25,5 @@ if ($_GET ['C'] == ''){
 }else echo "Digite um numero por vez";
 ?>
 
- </body>
+</body>
 </html>
