@@ -1,2 +1,4 @@
 # Converter_Temperatura
-# Simples conversor de celsius para fahrenheit em PHP
+<a href="https://www.codefactor.io/repository/github/lotaviods/converter_temperatura">
+<img src="https://www.codefactor.io/repository/github/lotaviods/converter_temperatura/badge" alt="CodeFactor" /></a>
+Simples conversor de celsius para fahrenheit feito em PHP
