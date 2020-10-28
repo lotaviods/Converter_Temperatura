@@ -19,5 +19,4 @@ if ($_GET ['C'] == ''){
     }
     ?>
     <html> 
-    <?php
-?><form action = "Index.html"> <button type="submit" class="btn btn-primary">Voltar</button> </form> 
+    <form action = "Index.html"> <button type="submit" class="btn btn-primary">Voltar</button> </form> 
