@@ -1,0 +1,13 @@
+{
+    "name": "lotaviods/converter_temperatura",
+    "description": "Conversor de temperatura",
+    "type": "library",
+    "license": "apache-2.0",
+    "authors": [
+        {
+            "name": "lotaviods",
+            "email": "l.otavio9099@gmail.com"
+        }
+    ],
+    "require": {}
+}
